@@ -1,5 +1,7 @@
 # React + Vite
 
+This is a simple todo list built with React.
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
