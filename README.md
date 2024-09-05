@@ -1,6 +1,6 @@
 # React + Vite
 
-This is a simple todo list built with React.
+This is a simple todo list built with React. There is also a separate calculator included.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
